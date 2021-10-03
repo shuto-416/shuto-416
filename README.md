@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... [yanireview](yanireview-mk2-ghyv3i5qy-hamasan.vercel.app)
+- 🔭 I’m currently working on ... [yanireview](https://yanireview-mk2-ghyv3i5qy-hamasan.vercel.app/)
 - 🌱 I’m currently learning ... Web language (especially Rect & typescript)
 - 👯 I’m looking to collaborate on ... nicochin
 - 🤔 I’m looking for help with ... money
