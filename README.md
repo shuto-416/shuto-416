@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there　🐶
 
 
 **shuto-416/shuto-416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
