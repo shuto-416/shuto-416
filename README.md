@@ -1,4 +1,4 @@
-## Hamaguchi Shuto
+# Hamaguchi Shuto
 
 ### Birth: 1999/04/16
 ### Age: 22
