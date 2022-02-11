@@ -1,15 +1,9 @@
-### Hi there　🐶
+### Hamaguchi Shuto
 
 
 **shuto-416/shuto-416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... [yanireview](https://yanireview-mk2-ghyv3i5qy-hamasan.vercel.app/)
-- 🌱 I’m currently learning ... Web language (especially Rect & typescript)
-- 👯 I’m looking to collaborate on ... nicochin
-- 🤔 I’m looking for help with ... money
-- 💬 Ask me about ... yani
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ...
+- self projection ... [yanireview](https://yanireview-mk2-ghyv3i5qy-hamasan.vercel.app/)
+- languages ... typecript, Next.js, HTML, css, c, c++, python, Java
